@@ -519,6 +519,10 @@ main {
   text-transform: lowercase;
 }
 
+.row2 h4 {
+  align-self: center;
+}
+
 footer {
   margin-bottom: 5rem;
 }
